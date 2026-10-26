@@ -1,0 +1,8 @@
+﻿# PowerShell
+*.ps1xml
+*.log
+*.tmp
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
